@@ -5,7 +5,8 @@
 - *d0003* redis + python
 - *d0004* graylog + python
 - *d0005* rabbitmq + python
-- *d0006* ???
+- *d0006* .bashrc or .bash_profile
+- 
  
 
 
